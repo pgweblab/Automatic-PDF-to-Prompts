@@ -1,0 +1,4 @@
+pypdf2
+clipboard
+mouse
+keyboard
